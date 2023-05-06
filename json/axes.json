@@ -1,17 +1,17 @@
 [
 	{
-		"id": "thank",
-		"name": "Gratitude",
-		"weights": [10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
+		"id": "psy",
+		"name": "Psychology",
+		"weights": [10, 10, 10, 10, 10, 10, 10, 10],
 		"left": {
-			"name": "Thankful",
+			"name": "Psychological insight",
 			"color": "#8e7cc3",
-			"description": "Those with higher Thankful scores thank others for their good deeds towards them or society and are grateful for whatever they have in life."
+			"description": "One important aspect of being sane is being able to understand yourself and other people. Those who have a decent understanding do well in this category"
 		},
 		"right": {
-			"name": "Arrogant",
+			"name": "psychological blindness",
 			"color": "#aa8e39",
-			"description": "Those with higher Arrogant scores either forget to say \"thank you\", don't care enough to express their gratitude, or feel entitled to what they are given, what they have, or more."
+			"description": "Those who score high here don't really understand other minds, although they may not be aware of this. Their own minds are filled with misconceptions pertaining to even simple psychological truths."
 		},
 		"tiers": [
 			"Super Thankful",
@@ -26,17 +26,17 @@
 		]
 	},
 	{
-		"id": "welcm",
-		"name": "Reception",
+		"id": "real",
+		"name": "Reality",
 		"left": {
-			"name": "Welcoming",
+			"name": "Grounded",
 			"color": "#6ed3c9",
-			"description": "Those with higher Welcoming scores less often forget to let people know that they're welcome to seek help from them and try to make a warm and pleasing atmosphere for guests, those who are coming in on or starting something that pertains to them."
+			"description": "Anyone who scores high here has a good understanding of physical reality. Many just take this for granted, but it's shocking what some believe about the world we live in."
 		},
 		"right": {
-			"name": "Dismissive",
+			"name": "Disconnected from Reality",
 			"color": "#a05555",
-			"description": "Those with higher Dismissive scores do not place much importance on being welcoming, making good impressions, accepting thanks, or being pleasant towards those who come to them."
+			"description": "Those with a high score here have an understanding of physical reality which is likely no better than that of a medieval peasant, perhaps worse. Humanity has figured out a thing or two since the middle ages. Time to hit the books."
 		},
 		"tiers": [
 			"Entirely Welcoming",
@@ -51,17 +51,17 @@
 		]
 	},
 	{
-		"id": "compl",
-		"name": "Asking",
+		"id": "edu",
+		"name": "Education",
 		"left": {
-			"name": "Polite",
+			"name": "Educated",
 			"color": "#79cf55",
-			"description": "Those with higher Polite scores are more likely to ask nicely when trying to get something from someone and refrain from excessively pressuring or forcing others to abide by their will."
+			"description": "Those with higher Educated scores are more likely to be able to understand what's happening around the world, in their own countries, and in their own lives. Nobody can know everything, but you should know at least a few things. The bar is lower than you'd expect."
 		},
 		"right": {
-			"name": "Forceful",
+			"name": "Ignorant",
 			"color": "#996920",
-			"description": "Those with higher Forceful scores are more likely to take from others as they please, they may do things without asking, even if sometimes for what they may think is the \"greater good\". Or they may be forgetful of proper manners when making requests. Or they may demand things from others as opposed to letting others know that they can do something if they wish or if they have time."
+			"description": "Anyone scoring high here is in deep trouble, because this is something that isn't easy to fix. You have more than a few gaps in your knowledge. Things often seem confusing to you, and you frequently find yourself reaching for simple explanations because the complicated ones are inaccessible."
 		},
 		"tiers": [
 			"Very Gentle",
@@ -76,17 +76,17 @@
 		]
 	},
 	{
-		"id": "mercy",
-		"name": "Mercy",
+		"id": "ratio",
+		"name": "Rationality",
 		"left": {
-			"name": "Forgiving",
+			"name": "Rational",
 			"color": "#eea65c",
-			"description": "Those with higher Forgiving scores strive to forgive whenever possible, they usually would favor rehabilative justice in politics as they believe a person can change after committing a wrong and feel that more often than not one should let go of past grudges. They may believe true morality comes from universality and see value in one who gives up their anger over things that are past and long gone."
+			"description": "You don't believe in things unless there's something to back it up."
 		},
 		"right": {
-			"name": "Resentful",
+			"name": "Naive",
 			"color": "#926767",
-			"description": "Those with higher Resentful scores may rather stay angry for what has been done in the past, or believe that the wrongs one has done must be retributed for as soon as possible. As such, in politics they may prefer a punitive or retributive penal system. They may feel that being forgiving is not as virtuous as people make it out to be and base their morals on atonement for actions and equal cause and effect."
+			"description": "The world is magical. Except it really isn't, but to you it might as well be. Quite a few of your beliefs have been debunked, are unfalsifiable nonsense, or are obviously wrong to anyone with a shred of rationality."
 		},
 		"tiers": [
 			"Oft-Forgiving",
@@ -101,17 +101,17 @@
 		]
 	},
 	{
-		"id": "truth",
-		"name": "Integrity",
+		"id": "scie",
+		"name": "Science",
 		"left": {
-			"name": "Honest",
+			"name": "Scientific",
 			"color": "#ffd966",
-			"description": "Those with higher Honest scores might feel less of a need to tell lies, they feel that it's important to tell the truth no matter the consequences, and do the right thing even when no one is looking, to have integrity."
+			"description": "Science is our most powerful tool for exploring the more complex and nitty-gritty parts of reality. Understanding this is important, and you do understand this."
 		},
 		"right": {
-			"name": "Deceitful",
+			"name": "Lost",
 			"color": "#a64d79",
-			"description": "Those with higher Deceitful scores might see to it that concealing or misleading people is more beneficial and a worthy sacrifice, perhaps even a pleasure, to achieve their goals. But some may not be able to help it, and are habitually lying to people to maintain a sense of security to escape from the consequences of their wrongs."
+			"description": "You can't do your own research. Once a topic gets complex enough, you're lost. If you look things up, whether or not you'll end up with the right answer depends on chance more than anything"
 		},
 		"tiers": [
 			"Utterly Honest",
@@ -123,106 +123,6 @@
 			"Corrupt",
 			"Habitual Liar",
 			"Machiavellian"
-		]
-	},
-	{
-		"id": "physm",
-		"name": "Physical",
-		"left": {
-			"name": "Altruistic",
-			"color": "#b6d7a8",
-			"description": "Those with higher Altruistic scores try to do things physically for others, using what they have in terms of resources and ability to help out instead of keeping it to themselves."
-		},
-		"right": {
-			"name": "Uncaring",
-			"color": "#1763a8",
-			"description": "Those with higher Uncaring scores may not want to lend others help in terms of their material possessions or through their better well-being allow some to benefit from it. They may rather keep what they own and believe themselves to be independent, wanting to work for themselves, not others."
-		},
-		"tiers": [
-			"Extremely Generous",
-			"Charitable",
-			"Humanitarian",
-			"Helpful",
-			"Ordinary",
-			"Slightly Greedy",
-			"Stingy",
-			"Miserly",
-			"Niggardly"
-		]
-	},
-	{
-		"id": "conxn",
-		"name": "Connections",
-		"left": {
-			"name": "Friendly",
-			"color": "#f4cccc",
-			"description": "Those with higher Friendly scores place a high emphasis on deep interacts that touch people emotionally. They are often willing to give advice or talk in times of trouble and are consistently there for others"
-		},
-		"right": {
-			"name": "Cold",
-			"color": "#7194cf",
-			"description": "Those with higher Cold scores may feel that they don't need to be very close with friends, they might dislike making things too personal and in some cases might not maintain a good number of strong/close friendships."
-		},
-		"tiers": [
-			"Affectionate",
-			"Companionable",
-			"Neighborly",
-			"Cordial",
-			"Mixed",
-			"Unwarm",
-			"Aloof",
-			"Distant",
-			"Pariah"
-		]
-	},
-	{
-		"id": "selfc",
-		"name": "Intrapersonal",
-		"left": {
-			"name": "Assertive",
-			"color": "#e4456b",
-			"description": "Those with higher Assertive scores have more self-esteem or value themselves highly. And may be unaffected by insults or they may act haughtily and are vocal in expression or attainment of their own needs/wants."
-		},
-		"right": {
-			"name": "Turbulent",
-			"color": "#be9823",
-			"description": "Those with higher Turbulent scores have lower self-esteem or do not value themselves very high. They may be more susceptible to degradation by others, or may be unwilling to stand up for themselves in what they want and might uneasily go along with others."
-		},
-		"tiers": [
-			"Self-centered",
-			"Bold",
-			"Firm",
-			"Individual",
-			"Balanced",
-			"Humble",
-			"Reliant",
-			"Diffident",
-			"Defeated"
-		]
-	},
-	{
-		"id": "outlk",
-		"name": "Outlook",
-		"left": {
-			"name": "Optimist",
-			"color": "#ffe599",
-			"description": "Those with higher Optimist scores tend to have hope that things will get better in the future, and have a positive outlook on life, assuming that the natural state is good, good always overcomes evil, and might believe that human nature is inherently good or can easily be turned good in certain conditions."
-		},
-		"right": {
-			"name": "Pessimist",
-			"color": "#5f709c",
-			"description": "Those with higher Pessimist scores tend to belive that things will not get better, or will get worse. And sometimes views the natural state as bad, and might believe that human nature is inherently evil. They may feel uneasy thinking about the future."
-		},
-		"tiers": [
-			"Utopianistic Optimist",
-			"Very Positivistic",
-			"Positivistic",
-			"Slightly Optimistic",
-			"Balanced",
-			"Slightly Pessimistic",
-			"Negativistic",
-			"Very Negativistic",
-			"Dystopianistic Pessimist"
 		]
 	}
 ]
